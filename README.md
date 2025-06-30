@@ -17,4 +17,4 @@ This is my first Git repository. My name is Atherva.
 📅 Completed on: June 30, 2025
 
 🔗 [View Certificate on Coursera](https://coursera.org/share/8c42052bad2c63508702d4b2f23a6ccf)  
-📄 [Download PDF Certificate](./python_certificate.jpg)
+📄 [Download  Certificate](./python_certificate.jpg)
